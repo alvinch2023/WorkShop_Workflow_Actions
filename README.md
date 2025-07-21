@@ -70,3 +70,4 @@ Find common terminology for reference [here](./CheatSheet.md)
 
 TestCommit
 [skip ci]
+Pull request trigger
